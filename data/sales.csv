@@ -1,0 +1,6 @@
+Order ID, Customer Name , Amount , Status
+1001,Ana Silva,149.90,paid
+1002,Bruno Costa,89.50,pending
+1003,Camila Souza,220.00,paid
+1003,Camila Souza,220.00,paid
+1004,Diego Lima,,cancelled
